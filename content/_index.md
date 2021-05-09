@@ -1,5 +1,5 @@
 ---
-title: 'l00s.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'l00s.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "l00s.com is under construction."
 ---
 
